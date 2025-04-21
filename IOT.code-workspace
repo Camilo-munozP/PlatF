@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Escritorio/IOT"
+		},
+		{
+			"name": "iot-led-server",
+			"path": "iot-led-server"
+		},
+		{
+			"name": "iot-cliente-http",
+			"path": "iot-cliente-http"
+		}
+	],
+	"settings": {}
+}
